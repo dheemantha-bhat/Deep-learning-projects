@@ -11,3 +11,15 @@ scale  back to be able to compare  predictions with real measurements.
 
 Implemented a (deep) neural networks model for “Temperature” prediction of the last city. 
 
+
+# Magnetoencephalography (MEG)
+
+MEG data comes from a neuroimaging technique that allows to scan the brain's
+magnetic field. Multiple sensors (eg magnetometers) are placed on the human
+scalp and their recordings can be of major importance in neuroscience research.
+One can for instance infer from brain data the state of a patient that has mental
+disorders
+
+The goal will be to accurately classify whether the subject is in one of the following states: rest,
+math, memory, motor using the MEG data
+
