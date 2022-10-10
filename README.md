@@ -12,7 +12,7 @@ scale  back to be able to compare  predictions with real measurements.
 Implemented a (deep) neural networks model for “Temperature” prediction of the last city. 
 
 
-# Magnetoencephalography (MEG)
+#Magnetoencephalography (MEG)
 
 MEG data comes from a neuroimaging technique that allows to scan the brain's
 magnetic field. Multiple sensors (eg magnetometers) are placed on the human
